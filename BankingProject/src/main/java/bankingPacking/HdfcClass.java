@@ -21,13 +21,13 @@ public class HdfcClass implements RbiBankInterface {
 		System.out.println("Family Details");
 		obj.familyDetails();
 		float f= RbiBankInterface.homeInterestRate;
-	    System.out.println("Interface varible display : " +f);
+	    System.out.println("Interface varible displaydrsfds : " +f);
 	    RbiBankInterface.method1();
 	    
 	}
 	
 	public void incomeTaxpaid() {
-	System.out.println("Income tax method calling: " + incomeTax);
+	System.out.println("Income tax method calling for Customer: " + incomeTax);
 	System.out.println("Class variable: " + b);
 	
 	}
